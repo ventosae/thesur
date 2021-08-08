@@ -1,0 +1,24 @@
+.list {
+  padding-left: 26px;
+}
+
+.list li + li {
+  margin-top: $spacer * 2;
+}
+
+.check {
+  list-style-image: url('../../images/icons/checkmark.svg');
+}
+
+.arrow {
+  list-style-image: url('../../images/icons/arrow-right.svg');
+}
+
+.bullet {
+  list-style-image: url('../../images/icons/bullet.svg');
+  padding-left: 17px;
+}
+
+.bullet li {
+  padding-left: 9px;
+}

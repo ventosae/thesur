@@ -1,0 +1,10 @@
+.footer::before {
+  background-image: url('../images/partials/footer.svg');
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  content: '';
+  display: block;
+  height: 40px;
+  width: 100%;
+}

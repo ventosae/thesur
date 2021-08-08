@@ -1,0 +1,61 @@
+backend:
+  name: git-gateway
+  branch: staging
+
+media_folder: src/images/uploads
+public_folder: ../../images/uploads/
+
+collections:
+  - name: blog
+    label: Blog
+    folder: src/content/blog
+    create: true
+    slug: '{{slug}}'
+    media_folder: '../../images/uploads/blog'
+    public_folder: '../../images/uploads/blog'
+    fields:
+      - name: slug
+        label: URL Slug
+      - name: title
+        label: Title
+      - name: date
+        label: Date
+        widget: date
+      - name: author
+        label: Author
+        default: Anton Surov
+      - name: image
+        label: Image
+        widget: image
+      - name: meta
+        label: Meta Fields
+        widget: object
+        fields:
+          - name: title
+            label: Title
+          - name: description
+            label: Description
+      - name: body
+        label: Body
+        widget: markdown
+  - name: textPages
+    label: Text Pages
+    folder: src/content/textPages
+    create: true
+    slug: '{{slug}}'
+    media_folder: 'src/images/uploads/text-pages'
+    public_folder: ''
+    fields:
+      - name: slug
+        label: URL Slug
+      - name: meta
+        label: Meta Fields
+        widget: object
+        fields:
+          - name: title
+            label: Title
+          - name: description
+            label: Description
+      - name: body
+        label: Body
+        widget: markdown
