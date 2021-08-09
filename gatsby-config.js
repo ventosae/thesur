@@ -1,6 +1,8 @@
 const dotenv = require('dotenv');
-
+require('dotenv').config(); 
 dotenv.config({ path: '.env' });
+const inst_api = INSTAGRAM_API
+
 
 module.exports = {
   siteMetadata: {
@@ -67,7 +69,8 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        access_token: `EAADZCW7aXNdUBANW8vdaYDoXZCcHQwtZAnerh2zdiQvxK8Ot73DvseCdMOzyl6J6BgBx2IO25ZA5c2MkP5bBx2g3BZAXdZBgkHbnSalTvoA6j14XwZCipU9o61W8xgs9lZAOwKItWqJWnjxZChzcw9TYZAGrl5qY4CqZBYypGZBbC9C9lorNfcB9WcgaJde5br8FHfiiQVWCD6PIygZDZD`,
+        // access_token: process.env.INSTAGRAM_API,
+        access_token: inst_api,
         instagram_id: `17841401832822921`,
       },
     },
