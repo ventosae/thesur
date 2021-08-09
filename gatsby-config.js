@@ -1,7 +1,7 @@
 const dotenv = require('dotenv');
 require('dotenv').config(); 
 dotenv.config({ path: '.env' });
-const inst_api = INSTAGRAM_API
+const inst_api = process.env.INSTAGRAM_API
 
 
 module.exports = {
