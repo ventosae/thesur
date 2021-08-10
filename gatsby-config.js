@@ -6,8 +6,8 @@ const inst_api = process.env.INSTAGRAM_API
 
 module.exports = {
   siteMetadata: {
-    title: 'Anton Surov Blog',
-    description: 'Anton Surov Blog',
+    title: '',
+    description: '',
     author: 'anton-surov',
     url: `https://anton-surov.com`,
     image: `/images/share.png`,

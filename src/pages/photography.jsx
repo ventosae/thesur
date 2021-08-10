@@ -29,12 +29,13 @@ const PhotographyPage = ({ location }) => {
   return (
     <>
       <SEO
-        title="Photography by Anton Surov"
+        title="Photography by Anton Surov 📷"
+        description="Here are some images produced mostly by my lovely Yashica 124g. There is something special about medium format, isn't it? Welcome to sur-space!🧨"
       />
       <Header location={location} padding="medium">
         <div className="text-center">
           <h1 className="typo-h1">
-            Anton Surov Photography
+            Photography 📷
           </h1>
         </div>
       </Header>

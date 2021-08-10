@@ -53,7 +53,8 @@ const HomePage = ({ location }) => {
   return (
     <>
       <SEO
-        title="Notes about SEO, Data & Photography"
+        title="Notes about SEO, Data & Photography by Anton Surov"
+        description="Hi there, I’m Anton Surov and they call me Sur. Welcome to this digital space – a compendium of my passions for SEO, data and analogue photography."
       />
       <Header location={location}>
         <div className="flex flex-wrap items-center text-center md:text-left">
@@ -89,15 +90,13 @@ const HomePage = ({ location }) => {
       <div className="bg-gray-50 px-4">
         <div className="container-md mx-auto py-12 md:py-20">
           <p className="mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id est laborum.
+          Hi there, I’m Anton Surov and they call me Sur. Welcome to this digital space – a compendium of my passions for SEO, data and analogue photography. 
           </p>
-          <p>
-            Interesting in collobration send me a message.
-          </p>
+          <p className="mb-5"> I know a few things about SEO, I’ve been doing it for 9 years in 3 countries, two languages and don’t plan to stop. 
+                                Through search I found my love to Data and now it’s time to put everything together and see what will happen. </p>
+
+          <p>Interested in collaborating? Send me a message.</p>
+          
         </div>
       </div>
       <div className="py-12 md:py-20 px-4">
