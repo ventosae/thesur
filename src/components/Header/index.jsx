@@ -45,19 +45,19 @@ const Header = ({ children, padding, location }) => (
       )}
       <div className="flex font-bold justify-between md:justify-start text-sm md:text-base">
           <Link
-              to="/appearances/"
+              to="/appearances"
               className="md:mr-6"
           >
               Appearances
           </Link>
           <Link
-              to="/photography/"
+              to="/photography"
               className="md:mr-6"
           >
               Photography
           </Link>
           <Link
-              to="/contacts/"
+              to="/contacts"
           >
               Contacts
           </Link>

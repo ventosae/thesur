@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!--Greetings Strangers, welcome to this sitemap and have a nice day.-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://thesur.space</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://thesur.space/photography</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thesur.space/appearances</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thesur.space/contacts</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://thesur.space/privacy</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

@@ -30,6 +30,7 @@ module.exports = {
       options: {
         siteUrl: `https://thesur.space`,
         stripQueryString: true,
+        noTrailingSlash: true
       },
     },
     {
