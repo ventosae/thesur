@@ -11,6 +11,7 @@ module.exports = {
     author: 'anton-surov',
     url: `https://thesur.space`,
     image: `/images/share.png`,
+    siteUrl:`https://thesur.space`
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
