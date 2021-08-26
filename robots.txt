@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.aboutmonica.com/sitemap.xml
+Sitemap: https://thesur.space/sitemap.xml
 
 #¯\_(ツ)_/¯

@@ -19,13 +19,15 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
+    'gatsby-plugin-robots-txt',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
         icon: `src/images/icon.png`,
       },
     },
-    
+
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
@@ -75,6 +77,14 @@ module.exports = {
         access_token: inst_api,
         instagram_id: `17841401832822921`,
       },
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://thesur.space',
+        sitemap: 'https://thesur.space/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
     },
     {
       resolve: 'gatsby-plugin-mdx',
