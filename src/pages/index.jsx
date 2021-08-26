@@ -90,10 +90,8 @@ const HomePage = ({ location }) => {
       <div className="bg-gray-50 px-4">
         <div className="container-md mx-auto py-12 md:py-20">
           <p className="mb-4">
-          Hi there, I’m Anton Surov and they call me Sur. Welcome to this digital space – a compendium of my passions for SEO, data and analogue photography. 
-          </p>
-          <p className="mb-5"> I know a few things about SEO, I’ve been doing it for 9 years in 3 countries, two languages and don’t plan to stop. 
-                                Through search I found my love to Data and now it’s time to put everything together and see what will happen. </p>
+          Hi there! I’m Anton Surov, but they call me Sur. Welcome to this digital space – a compendium of my passion for SEO, data and analogue photography.</p>
+          <p className="mb-5">I know a few things about SEO. I’ve been doing it for 9 years, in three countries and two languages, and I don’t plan to stop. I’ve found my love for data, and now it’s time to put everything together and see what will happen.</p>
 
           <p>Interested in collaborating? Send me a message.</p>
           

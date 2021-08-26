@@ -25,6 +25,7 @@ module.exports = {
         icon: `src/images/icon.png`,
       },
     },
+    
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {

@@ -5,8 +5,7 @@ meta:
   title: Appearances and Content by Anton Surov 📈
   description: Find out more about talks and articles produced by Anton Surov. Would like to invite me - get in touch! Welcome to the sur-space!🧨
 ---
-I’m an experienced SEO profession who enjoys sharing my experience with others and be part of the community. I have extensive experience with international, technical and enterprise SEO and very comfortable with languages such as JavaScript, Python, R and Git. 
-Interesting in having me speak at an upcoming event or workshop? Send me a message.
+I’m an experienced SEO profession who enjoys sharing my experience with others and be part of the community. I have extensive experience with international, technical and enterprise SEO and very comfortable with languages such as JavaScript, Python, R and Git. Interesting in having me speak at an upcoming event or workshop? Send me a message.
 
 ## Upcoming Engagements
 
