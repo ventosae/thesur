@@ -1,10 +1,10 @@
 ---
-slug: just-private-private-browsing1
-title: Just How Private Is Private Browsing?1
+slug: sand-in-eyes-why-happy-eyes
+title: The Mystery Case of Sand in My Eyes – or why we created Happy Eyes.
 date: 2021-08-30T06:31:16.161Z
 author: Anton Surov
 meta:
-  title: Just How Private Is Private Browsing?
+  title: The Mystery Case of Sand in My Eyes – or why we created Happy Eyes.
   description: Five facts to help in your quest for truly private browsing.
 tags:
   - Data
