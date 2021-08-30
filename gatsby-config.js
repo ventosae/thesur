@@ -22,6 +22,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
     'gatsby-plugin-robots-txt',
+ 
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -83,7 +84,7 @@ module.exports = {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://thesur.space',
-        sitemap: 'https://thesur.space/sitemap.xml',
+        sitemap: 'https://thesur.space/sitemap/sitemap-index.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
@@ -106,6 +107,19 @@ module.exports = {
           'gatsby-remark-smartypants',
           'gatsby-remark-external-links',
         ],
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`@pauliescanlon/gatsby-remark-sticky-table`],
+      },
+    },
+    {
+      resolve: `@pauliescanlon/gatsby-remark-sticky-table`,
+      options: {
+        height: 250,
+        backgroundColor: "#ffffff",
       },
     },
     {
@@ -138,5 +152,6 @@ module.exports = {
         enableWebVitalsTracking: true,
       },
     },
+    
   ],
 };

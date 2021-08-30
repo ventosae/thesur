@@ -4,6 +4,8 @@ import React from 'react';
 import PropTypes from '../../utils/PropTypes';
 import Link from '../Link';
 import List from '../List';
+import { warning } from './mdx_style.css'
+import './mdx_style.css'
 
 const basicPropTypes = {
   children: PropTypes.node,
@@ -121,6 +123,29 @@ Url.defaultProps = {
   href: '',
 };
 
+const Warning = ({children}) => (
+  <aside className="warning">
+    {children}
+  </aside>
+);
+
+Warning.propTypes = {
+  children: PropTypes.node
+};
+
+Warning.defaultProps = {
+  children: null
+};
+
+const CustTable = ({ children }) => (
+    <table class="styled-table">
+      {children}
+    </table>
+);
+CustTable.propTypes = basicPropTypes;
+CustTable.defaultProps = basicDefaultProps;
+
+
 const CustomMDXProvider = ({ children }) => (
   <>
     <MDXProvider
@@ -137,6 +162,8 @@ const CustomMDXProvider = ({ children }) => (
         a: CustomLink,
         Table: CustomTable,
         Url: Url,
+        Warning: Warning,
+        table: CustTable
       }}
     >
       {children}

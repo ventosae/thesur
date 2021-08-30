@@ -46,6 +46,10 @@ const BlogPostPage = ({ data, pageContext, location }) => {
 
   return (
     <>
+      <SEO
+        title={post.meta.title}
+        description={post.meta.description}
+      />
       <Header padding="small" location={location}>
         <h1 className="typo-h1">{post.title}</h1>
         <p className="text-sm font-bold mt-6 md:mt-8">

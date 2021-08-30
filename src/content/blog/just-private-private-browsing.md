@@ -56,3 +56,9 @@ As we’ve seen, incognito mode basically just means that your browser doesn’t
 **Just being aware** – [Ghostery](https://www.ghostery.com/) is a browser extension that shows you how you’re being tracked online, and by whom. It informs you which sites are collecting your data or browsing history in order to serve you targeted ads, and also (at the time of writing) blocks about 1,980 trackers.
 
 To sum it up, incognito mode and other private browsing modes are useful and do provide web users with a real level of privacy protection with very little effort required. As long we’re aware of the level of real privacy these modes offer, and how to take full advantage of the other privacy tools out there, protecting our online activities from prying eyes is still achievable – which is especially important in today’s data climate.
+
+<Warning> This articles walks through how to create protected routes on NextJS with Supabase's user management. It assumes you already have a NextJS site up and running with the ability to create new Supabase users but if not check out the first part of this series on </Warning>
+
+| Head one | Head two | Head three |
+| -------- | ---------| ---------- |
+| cell one | cell two | cell three |
