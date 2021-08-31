@@ -34,7 +34,7 @@ const Header = ({ children, padding, location }) => (
           <div className={
             classnames(
               {
-                'py-16 md:py-5': padding === '',
+                'py-12 md:py-5': padding === '',
                 'py-28': padding === 'medium',
                 'py-12 md:py-28': padding === 'small',
               }
@@ -46,18 +46,19 @@ const Header = ({ children, padding, location }) => (
       <div className="flex font-bold justify-between md:justify-start text-sm md:text-base">
           <Link
               to="/appearances"
-              className="md:mr-6"
+              className="md:mr-6 underline"
           >
               Appearances
           </Link>
           <Link
               to="/photography"
-              className="md:mr-6"
+              className="md:mr-6 underline"
           >
               Photography
           </Link>
           <Link
               to="/contacts"
+              className="md:mr-6 underline"
           >
               Contacts
           </Link>
