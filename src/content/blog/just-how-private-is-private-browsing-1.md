@@ -73,4 +73,6 @@ Simple! Happy Eyes is the only eye strain related web app on the market which:
 - Is mobile friendly 
 - Looks pretty as hell (thanks, Evgenia [Evgenia](https://www.behance.net/byshikzhe), for great UX design)
 
+The sand is gone, and my eyes are happy. Stay safe, and please share any feedback about **[HappyEyes](https://happyeyes.io)**. 😊 
+
 <Warning> Disclaimer: Please remember, this is not medical advice. If any of the above symptoms apply to you or your eyes are always tired, your first port of call should be a qualified optometrist. These university-trained medical professionals can properly diagnose you for eye strain or any other contributing conditions.</Warning>
