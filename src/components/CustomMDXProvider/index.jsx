@@ -123,6 +123,20 @@ Url.defaultProps = {
   href: '',
 };
 
+const Source = ({ children, href }) => (
+  <Link className="underline colors.coolGray-50" to={href}>{children}</Link>
+);
+
+Source.propTypes = {
+  children: PropTypes.node,
+  href: PropTypes.string,
+};
+
+Source.defaultProps = {
+  children: null,
+  href: '',
+};
+
 const Warning = ({children}) => (
   <aside className="warning">
     {children}
@@ -145,6 +159,21 @@ const CustTable = ({ children }) => (
 CustTable.propTypes = basicPropTypes;
 CustTable.defaultProps = basicDefaultProps;
 
+const Interesting = ({ children }) => (
+  <aside className="interesting">
+    {children}
+  </aside>
+);
+Interesting.propTypes = basicPropTypes;
+Interesting.defaultProps = basicDefaultProps;
+
+const Stat = ({ children }) => (
+  <aside className="stat">
+    {children}
+  </aside>
+);
+Stat.propTypes = basicPropTypes;
+Stat.defaultProps = basicDefaultProps;
 
 const CustomMDXProvider = ({ children }) => (
   <>
@@ -163,7 +192,10 @@ const CustomMDXProvider = ({ children }) => (
         Table: CustomTable,
         Url: Url,
         Warning: Warning,
-        table: CustTable
+        table: CustTable,
+        Interesting: Interesting,
+        Stat: Stat,
+        Source: Source
       }}
     >
       {children}

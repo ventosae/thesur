@@ -5,60 +5,75 @@ date: 2021-08-30T06:31:16.161Z
 author: Anton Surov
 meta:
   title: The Mystery Case of Sand in My Eyes – or why we created Happy Eyes.
-  description: Five facts to help in your quest for truly private browsing.
+  description: Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created Happy Eyes. 
+  ogtitle: The Mystery Case of Sand in My Eyes – or why we created Happy Eyes.
+  image: ../../images/uploads/blog/happy-eyes.jpg
+  metaImage: ../../images/uploads/blog/happy-eyes.jpg
 tags:
-  - Data
-  - Security
+  - HappyEyes
+  - Health
   - Technology
-image: ../../images/uploads/blog/l423324ock.webp
-description: Five facts to help in your quest for truly private browsing.
+image: ../../images/uploads/blog/happy-eyes.jpg
+metaImage: ../../images/uploads/blog/happy-eyes.jpg
+description: Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created Happy Eyes. 
 ---
-2018 has been a turbulent year in terms of data privacy. From the European Union enacting its General Data Protection Regulation to Cambridge Analytica’s clandestine mining of 80 million Facebook users’ data, it seems that online privacy is more relevant today than it has ever been.
+Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created **[HappyEyes](https://happyeyes.io)**.
 
-Much of this fixation on data has come from the general population’s perceived lack of understanding of the way data is collected, stored and used online. Take, for example, the idea of “private” or “incognito” modes in our web browsers: it’s widely assumed that these little windows protect us while online, but can they really keep you safe from greedy online trackers? Can private browsing really hide your activity at work or protect you from online spying or data mining? How secure is it really?
+When lockdown began and we switched to the working-from-home mode, I truly enjoyed the first few months. Oh, that was a bliss, listening to music without headphones and conducting website migrations while eating cereal… until my eyes started feeling peculiar. It felt as though ten trucks had driven up during the day and dumped loads of sand in them. They felt sore, dry and heavy. It was a new feeling – and quite an unpleasant one. 
 
-Here are five facts you may find useful in your quest for truly private browsing.
+Something had to be done, so I employed a 3-step approach. 
 
-## 1. Private mode wasn’t created to be fully private
+## Follow the steps.
 
-When Google initially created Incognito Mode in 2008, they weren’t sure what to call it. Darin Fisher (one of the developers on the project) was against naming it “privacy mode”, as it wasn’t truly private. It was intended to enable people to hide their activities from their loved ones, particularly on shared computers.
+**1. Search for it:** I did what any sane person working from home would do. I googled my symptoms. To my big surprise, I did not get an immediate diagnosis of cancer from Dr. Google but rather, a simpler, more straightforward answer: eye strain, aka computer vision syndrome. (Shout out to all SEOs optimising for “Eye Strain” as a keyword. You aced it.) 
 
-Fisher notes that while Incognito does prevent browsing history and cookies from being saved, the product team felt it was important to “make it really clear to people that your activity is certainly still visible to the websites you visit and could be visible to your employer, to your school, and to your [internet service provider] of course”. That is, people’s browsers were still recording more than they might have thought.
+<Interesting>But what, exactly, is eye strain? The American Academy of Ophthalmology explains that looking at digital devices won’t necessarily damage your eyesight, but it can cause strain and unpleasant symptoms. Humans normally blink around 15 times each minute. When staring at screens, this number decreases to a half or a third of that. That can lead to dry, irritated, tired eyes and even headaches.</Interesting>
 
-## 2. Your browser still collects information
+**2. Go to the source:** Eye strain. That opened up a rabbit hole that I disappeared down, binge-reading research papers, articles and Reddit posts. And let me tell you, I was not alone. Just look at these stats!
 
-While using Incognito mode, your browser will still keep downloads and save bookmarks, and if you’re using a public Wi-Fi connection at work or in a cafe, a lot of your activity can still be tracked. If you’re using an unsecure non-https site, users on the same network can easily see your browsing history – if they want to.
+Now, armed with all this data and an idea of what I was dealing with, it was time to look for a solution. And it was an easy one: take regular breaks from the screen, do easy eye exercises and find a structured way to combine them both. The table below shows a few ideas I came up with and why they got rejected.
 
-Researchers from the [Massachusetts Institute of Technology](http://news.mit.edu/2018/system-patches-private-browsing-0223) (MIT) also warn users that their browsing history often remains on a machine, even when using Incognito. Each time you visit a webpage, even in private mode, the data from the sites you’ve visited is loaded into the device’s RAM, displayed, and cached. If someone really wanted to, they could obtain this information.
 
-## 3. There’s a difference between local and online privacy
+<Stat>
+1️⃣
+The 2016 Digital Eye Strain report, which included survey responses from over 10,000 US adults, identified an overall self-reported symptom prevalence of 65%, with females more commonly affected than males (69% vs 60% prevalence).  
 
-When speaking of anonymous browsing, there are two types of privacy at play: local privacy and online privacy.
+<a href="" target="_blank" rel="noopener noreferrer" class="underline colors.coolGray-50" to="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020759/">  Source: https://www.ncbi.nlm.nih.gov</a>
 
-Local privacy refers to shared devices; people using the same computer as you can’t see your browsing history if you’re using Incognito Mode.
+--
 
-However, online privacy is not affected by Incognito Mode. Websites can still can track your location, onsite actions and behaviour, device and software information, and more. What’s more, if you’re logged into your Google account while in an incognito, all your search history will still be saved to the cloud.
+2️⃣Digital eye strain has a signiﬁcant impact on both visual comfort and occupational productivity, since around **40% of adults and up to 80% of teenagers may experience signiﬁcant visual symptoms** (principally eye strain, tired and dry eyes), both during and immediately after viewing electronic displays. 
 
-## 4. But… private browsing still has its uses
+<a href="" target="_blank" rel="noopener noreferrer" class="underline colors.coolGray-50" to="https://www.researchgate.net/publication/295902618_Computer_vision_syndrome_aka_digital_eye_strain">  Source: https://www.researchgate.net</a>
 
-It’s not all doom and gloom. You can still get something out of incognito mode if you’re trying to keep your browsing history secure from prying eyes. For example, it enables you to sign into your Google (or any other) account in one window, and log into a different account in another. With this method, you can browse in incognito mode while being logged into your secondary Google account, which will link your browsing history only to that secondary account.
+--
 
-Secondly, Incognito can be very if you want to see search results as Google intended them, unskewed by your own search history or account settings. Similarly, shopping in incognito mode will prevent you from being served retargeting banners and other dynamic ad units.
+3️⃣Digital eye strain (DES), also known as computer vision syndrome, encompasses a range of ocular and visual symptoms, and **estimates suggest 50% or more of computer users experience it.**s
 
-## 5. There are other ways to stay private
+<a href="" target="_blank" rel="noopener noreferrer" class="underline colors.coolGray-50" to="https://www.researchgate.net/publication/324556803_Digital_eye_strain_Prevalence_measurement_and_amelioration">  Source: https://www.researchgate.net</a>
 
-As we’ve seen, incognito mode basically just means that your browser doesn’t save local copies of cookies, temporary internet files or your browsing history (though these records will still exist on the servers you accessed). So, are there any better ways to protect your privacy? Yes!
+</Stat>
 
-**VPNs** – Using a Virtual Private Network (VPN) is usually the easiest and most effective way to browse the internet in privacy. A VPN masks your physical location and IP address, which prevents the website you’re visiting from being able to join the dots between its data and who you are or where you’re browsing from.
+| Solution | Why it was rejected |
+| -------- | ---------|
+| Use a timer on my phone | Too much destruction (constant risk of getting stuck on Instagram) |
+| Download the app on the phone | A good solution, but I’m trying to stay away from the phone during the day for productivity reasons |
+| Download a desktop app| Almost no options available, and you can’t install anything on a work laptop |
+| Find a web app | Sounds like a best solution, but the best web app available is made with flash (it’s not even supported anymore)  |
+| Create my own app | Sounds like too much work – but wait a second… 🤔|
 
-**Secure Search Engines** – Search engines such as [DuckDuckGo](https://duckduckgo.com/) don’t retain your search history.
+It became apparent that there was no decent web app (aka website) on the market that allows you to take breaks and do eye exercises. 
 
-**Just being aware** – [Ghostery](https://www.ghostery.com/) is a browser extension that shows you how you’re being tracked online, and by whom. It informs you which sites are collecting your data or browsing history in order to serve you targeted ads, and also (at the time of writing) blocks about 1,980 trackers.
+## Build it.
 
-To sum it up, incognito mode and other private browsing modes are useful and do provide web users with a real level of privacy protection with very little effort required. As long we’re aware of the level of real privacy these modes offer, and how to take full advantage of the other privacy tools out there, protecting our online activities from prying eyes is still achievable – which is especially important in today’s data climate.
+During one of the standups at work, I brought up the topic of eye strain and, oh boy, I’ve learned that quite a few people experienced similar symptoms. That’s how (after a few Zoom calls) we teamed up with [Dima](https://www.linkedin.com/in/dkovtunov/). to create something which would suit our needs and help with eye strain. And after a few dozen Zoom calls and brainstorming sessions, Happy Eyes was born (thanks to Dima’s outstanding React skills). 
 
-<Warning> This articles walks through how to create protected routes on NextJS with Supabase's user management. It assumes you already have a NextJS site up and running with the ability to create new Supabase users but if not check out the first part of this series on </Warning>
+Why **[HappyEyes](https://happyeyes.io)**? 
 
-| Head one | Head two | Head three |
-| -------- | ---------| ---------- |
-| cell one | cell two | cell three |
+Simple! Happy Eyes is the only eye strain related web app on the market which:
+- Can have a number of timers running simultaneously 
+- Can send notifications to take breaks 
+- Is mobile friendly 
+- Looks pretty as hell (thanks, Evgenia [Evgenia](https://www.behance.net/byshikzhe), for great UX design)
+
+<Warning> Disclaimer: Please remember, this is not medical advice. If any of the above symptoms apply to you or your eyes are always tired, your first port of call should be a qualified optometrist. These university-trained medical professionals can properly diagnose you for eye strain or any other contributing conditions.</Warning>
