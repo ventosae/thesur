@@ -5,14 +5,16 @@ date: 2021-08-30T06:31:16.161Z
 author: Anton Surov
 meta:
   title: The Mystery Case of Sand in My Eyes – or why we created Happy Eyes.
-  description: Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created Happy Eyes. 
+  description: Like all good things, this one starts with a story. A story about
+    how I discovered eye strain and why we created Happy Eyes.
   image: ../../images/uploads/blog/happy-eyes.jpg
 tags:
   - HappyEyes
   - Health
   - Technology
 image: ../../images/uploads/blog/happy-eyes.jpg
-description: Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created Happy Eyes. 
+description: Like all good things, this one starts with a story. A story about
+  how I discovered eye strain and why we created Happy Eyes.
 ---
 Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created **[HappyEyes](https://happyeyes.io)**.
 
@@ -30,20 +32,19 @@ Something had to be done, so I employed a 3-step approach.
 
 Now, armed with all this data and an idea of what I was dealing with, it was time to look for a solution. And it was an easy one: take regular breaks from the screen, do easy eye exercises and find a structured way to combine them both. The table below shows a few ideas I came up with and why they got rejected.
 
-
 <Stat>
 1️⃣
 The 2016 Digital Eye Strain report, which included survey responses from over 10,000 US adults, identified an overall self-reported symptom prevalence of 65%, with females more commonly affected than males (69% vs 60% prevalence).  
 
 <a href="" target="_blank" rel="noopener noreferrer" class="underline colors.coolGray-50" to="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020759/">  Source: https://www.ncbi.nlm.nih.gov</a>
 
---
+\--
 
 2️⃣Digital eye strain has a signiﬁcant impact on both visual comfort and occupational productivity, since around **40% of adults and up to 80% of teenagers may experience signiﬁcant visual symptoms** (principally eye strain, tired and dry eyes), both during and immediately after viewing electronic displays. 
 
 <a href="" target="_blank" rel="noopener noreferrer" class="underline colors.coolGray-50" to="https://www.researchgate.net/publication/295902618_Computer_vision_syndrome_aka_digital_eye_strain">  Source: https://www.researchgate.net</a>
 
---
+\--
 
 3️⃣Digital eye strain (DES), also known as computer vision syndrome, encompasses a range of ocular and visual symptoms, and **estimates suggest 50% or more of computer users experience it.**s
 
@@ -51,13 +52,13 @@ The 2016 Digital Eye Strain report, which included survey responses from over 10
 
 </Stat>
 
-| Solution | Why it was rejected |
-| -------- | ---------|
-| Use a timer on my phone | Too much destruction (constant risk of getting stuck on Instagram) |
-| Download the app on the phone | A good solution, but I’m trying to stay away from the phone during the day for productivity reasons |
-| Download a desktop app| Almost no options available, and you can’t install anything on a work laptop |
-| Find a web app | Sounds like a best solution, but the best web app available is made with flash (it’s not even supported anymore)  |
-| Create my own app | Sounds like too much work – but wait a second… 🤔|
+| Solution                      | Why it was rejected                                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Use a timer on my phone       | Too much destruction (constant risk of getting stuck on Instagram)                                               |
+| Download the app on the phone | A good solution, but I’m trying to stay away from the phone during the day for productivity reasons              |
+| Download a desktop app        | Almost no options available, and you can’t install anything on a work laptop                                     |
+| Find a web app                | Sounds like a best solution, but the best web app available is made with flash (it’s not even supported anymore) |
+| Create my own app             | Sounds like too much work – but wait a second… 🤔                                                                |
 
 It became apparent that there was no decent web app (aka website) on the market that allows you to take breaks and do eye exercises. 
 
@@ -68,9 +69,12 @@ During one of the standups at work, I brought up the topic of eye strain and, oh
 Why **[HappyEyes](https://happyeyes.io)**? 
 
 Simple! Happy Eyes is the only eye strain related web app on the market which:
-- Can have a number of timers running simultaneously 
-- Can send notifications to take breaks 
-- Is mobile friendly 
-- Looks pretty as hell (thanks, Evgenia [Evgenia](https://www.behance.net/byshikzhe), for great UX design)
+
+* Can have a number of timers running simultaneously 
+* Can send notifications to take breaks 
+* Is mobile friendly 
+* Looks pretty as hell (thanks, Evgenia [Evgenia](https://www.behance.net/byshikzhe), for great UX design)
 
 <Warning> Disclaimer: Please remember, this is not medical advice. If any of the above symptoms apply to you or your eyes are always tired, your first port of call should be a qualified optometrist. These university-trained medical professionals can properly diagnose you for eye strain or any other contributing conditions.</Warning>
+
+The sand is gone, and my eyes are happy. Stay safe, and please share any feedback about Happy Eyes. 😊
