@@ -55,7 +55,8 @@ const HomePage = ({ location }) => {
       <SEO
         title="Notes about SEO, Data & Photography by Anton Surov"
         description="Hi there, I’m Anton Surov and they call me Sur. Welcome to this digital space – a compendium of my passions for SEO, data and analogue photography."
-        image="../../images/uploads/blog/happy-eyes.jpg"
+        // image="../../images/uploads/blog/happy-eyes.jpg"
+        
       />
       <Header location={location}>
         <div className="flex flex-wrap items-center text-center md:text-left">

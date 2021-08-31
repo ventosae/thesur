@@ -6,15 +6,12 @@ author: Anton Surov
 meta:
   title: The Mystery Case of Sand in My Eyes – or why we created Happy Eyes.
   description: Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created Happy Eyes. 
-  ogtitle: The Mystery Case of Sand in My Eyes – or why we created Happy Eyes.
   image: ../../images/uploads/blog/happy-eyes.jpg
-  metaImage: ../../images/uploads/blog/happy-eyes.jpg
 tags:
   - HappyEyes
   - Health
   - Technology
 image: ../../images/uploads/blog/happy-eyes.jpg
-metaImage: ../../images/uploads/blog/happy-eyes.jpg
 description: Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created Happy Eyes. 
 ---
 Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created **[HappyEyes](https://happyeyes.io)**.

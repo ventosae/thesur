@@ -49,8 +49,7 @@ const BlogPostPage = ({ data, pageContext, location }) => {
       <SEO
         title={post.meta.title}
         description={post.meta.description}
-        ogtitle={post.meta.ogtitle}  
-        metaImage={post.meta.metaImage}  
+        image={post.meta.image.publicURL}
       />
       <Header padding="small" location={location}>
         <h1 className="typo-h1">{post.title}</h1>
@@ -142,6 +141,9 @@ export const pageQuery = graphql`
       meta {
         title
         description
+        image {
+          publicURL
+        }
       }
     }
   }

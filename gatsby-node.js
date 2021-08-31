@@ -33,6 +33,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       type MetaFields implements Node {
         title: String
         description: String
+        image: File @fileByRelativePath
       }
     `,
     `
