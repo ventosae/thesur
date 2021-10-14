@@ -32,8 +32,7 @@ Something had to be done, so I employed a 3-step approach.
 Now, armed with all this data and an idea of what I was dealing with, it was time to look for a solution. And it was an easy one: take regular breaks from the screen, do easy eye exercises and find a structured way to combine them both. The table below shows a few ideas I came up with and why they got rejected.
 
 <Stat>
-1️⃣
-The 2016 Digital Eye Strain report, which included survey responses from over 10,000 US adults, identified an overall self-reported symptom prevalence of 65%, with females more commonly affected than males (69% vs 60% prevalence).  
+1️⃣The 2016 Digital Eye Strain report, which included survey responses from over 10,000 US adults, identified an overall self-reported symptom prevalence of 65%, with females more commonly affected than males (69% vs 60% prevalence).  
 
 <a href="" target="_blank" rel="noopener noreferrer" class="underline colors.coolGray-50" to="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020759/">  Source: https://www.ncbi.nlm.nih.gov</a>
 
