@@ -1,7 +1,7 @@
 const dotenv = require('dotenv');
 require('dotenv').config(); 
 dotenv.config({ path: '.env' });
-const inst_api = process.env.INSTAGRAM_API
+const inst_api = INSTAGRAM_API
 
 
 module.exports = {
@@ -75,7 +75,6 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        // access_token: process.env.INSTAGRAM_API,
         username: 'ventosae',
         access_token: inst_api,
         instagram_id: `17841401832822921`,
