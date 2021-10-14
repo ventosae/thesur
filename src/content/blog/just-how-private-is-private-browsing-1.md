@@ -13,8 +13,7 @@ tags:
   - Health
   - Technology
 image: ../../images/uploads/blog/happy-eyes.jpg
-description: Like all good things, this one starts with a story. A story about
-  how I discovered eye strain and why we created Happy Eyes.
+description: Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created Happy Eyes.
 ---
 Like all good things, this one starts with a story. A story about how I discovered eye strain and why we created **[HappyEyes](https://happyeyes.io)**.
 

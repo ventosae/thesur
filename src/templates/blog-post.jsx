@@ -74,7 +74,7 @@ const BlogPostPage = ({ data, pageContext, location }) => {
           </CustomMDXProvider>
         </div>
       </div>
-      {previous || next && (
+      {(previous || next) && (
         <div className="pb-8 md:pb-16 px-4">
           <div className="container-sm mx-auto flex justify-between">
             <div>
@@ -85,6 +85,7 @@ const BlogPostPage = ({ data, pageContext, location }) => {
                   </div>
                   <div className="text-md">
                     {previous.title}
+                    {console.log(previous.title)}
                   </div>
                 </Link>
               )}

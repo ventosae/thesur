@@ -76,7 +76,8 @@ module.exports = {
       resolve: `gatsby-source-instagram`,
       options: {
         // access_token: process.env.INSTAGRAM_API,
-        access_token: inst_api,
+        username: 'ventosae',
+        access_token: 'EAADZCW7aXNdUBAAe7zoOZA4eBHATLbkahPNayeDpyZCzfn9ma5yRAyHIJJNzE3bdDPh8Wl7R036iZBoZCzZBu9MjYSLi1u34jajVCEiu64H94zRx2LNUklRkDenUjuFDBFCDvBE0K6njFB3TMfNsB9gF5fNw2YLAJxRchewTXDAZBLD6KcjeC2N',
         instagram_id: `17841401832822921`,
       },
     },
@@ -101,6 +102,7 @@ module.exports = {
               quality: 100,
               withWebp: true,
               ignoreFileExtensions: [],
+              linkImagesToOriginal: false,
             },
           },
           'gatsby-remark-copy-linked-files',
